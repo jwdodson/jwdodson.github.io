@@ -9,4 +9,4 @@ To get started, open the index.html file to find instructions and examples. You'
 * Item
 * Item
 * Item
-
+[Visit GameckocksOnline!](http://www.gamecocksonline.com/)
